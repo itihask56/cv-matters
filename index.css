@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5rem 20rem 5rem 20rem;
+
+  font-family: "Roboto", sans-serif;
+  background-color: #f0f0f0;
+}
+.container {
+  padding: 50px;
+  width: 80%;
+  margin-left: 50px;
+  overflow: hidden;
+  border: 2px solid black;
+  height: 700px;
+}
+hr {
+  margin-right: 100px;
+  margin-bottom: 10px;
+  border: 1.5px solid black;
+}
+
+.name {
+  font-weight: normal;
+  font-size: 26px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.sub-head {
+  font-size: 14px;
+  color: rgb(6, 162, 6);
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+p {
+  font-size: 14px;
+  line-height: 1.4;
+}
+.school,
+.company {
+  color: rgb(6, 105, 198);
+}
+
+ul {
+  margin-left: 15px;
+  font-size: 14px;
+  line-height: 1.4;
+}
+a {
+  text-decoration: none;
+  color: black;
+  margin-right: 15px;
+}
