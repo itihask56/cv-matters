@@ -15,8 +15,9 @@ This is a detailed CV of Itihas Verma, a Junior Frontend Developer. The CV inclu
 This project is a simple HTML page that showcases the CV of Itihas Verma. It includes personal details, skills, education, and work experience. The page is designed to be responsive and includes social media links.
 
 ## Project URL
+
 ```sh
-https://github.com/itihask56/cv-matters
+https://roadmap.sh/projects/single-page-cv
 ```
 ## Technologies Used
 
